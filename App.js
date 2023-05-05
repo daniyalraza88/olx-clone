@@ -16,7 +16,6 @@ function App() {
   const [screen1, setScreen1] = useState(true);
 
 
-
   return (
     <div >
       <header className="App-header">
